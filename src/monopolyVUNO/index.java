@@ -15,6 +15,7 @@ public class index {
 
 	private static int cambiarTurno(int turno) {
 		// TODO Auto-generated method stub
+		//modificado
 		return 0;
 	}
 
